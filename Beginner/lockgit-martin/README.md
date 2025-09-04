@@ -14,4 +14,4 @@ this logbook holds whispers of a secret council. can you piece them back togethe
 
 ## Flag
 
-UCS{multipart_is_fun_doesnt_it}
+UCS{multipart_is_fun_isnt_it}
