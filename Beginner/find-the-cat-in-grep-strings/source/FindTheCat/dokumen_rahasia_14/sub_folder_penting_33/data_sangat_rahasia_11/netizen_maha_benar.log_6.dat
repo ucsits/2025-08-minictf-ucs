@@ -1,0 +1,8 @@
+Isi file ini hanyalah harapan palsu dan janji manis.
+
+flag: seriously though, check this file this time. There is an important information here... or is there :)
+
+no, yeah it is important.
+
+you should try doing this command instead: 
+$ grep -r "UCS{" .

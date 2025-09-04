@@ -1,0 +1,4 @@
+Damn it! you found my save. Stop! Don't take my corrupt money away!... what? you just want to find a cat? idk what you're talking about man. Perhaps you should search the other results you found.
+
+Or perhaps you should try this instead:
+$ find . -name "1m_th3_c4*" | xargs cat

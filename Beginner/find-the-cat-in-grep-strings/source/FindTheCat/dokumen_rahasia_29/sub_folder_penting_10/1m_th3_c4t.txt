@@ -1,0 +1,5 @@
+What??? how did you find me so easily. Dang it. Don't try to find me again.
+
+If you want to try find me, you should try: 
+$ grep -r "flag:" .
+

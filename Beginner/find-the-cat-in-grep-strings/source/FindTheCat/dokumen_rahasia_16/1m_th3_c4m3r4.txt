@@ -1,0 +1,7 @@
+I got you! What are you doing, huh?! You're making a deal behind the scenes, aren't you?! Wait, no? You're just looking for a flag? idk what you're talking about, man. Perhaps you should find the other results you found.
+
+Or perhaps you should try this instead:
+$ find . -name "1m_th3_c4*" | xargs cat
+
+thank me later
+

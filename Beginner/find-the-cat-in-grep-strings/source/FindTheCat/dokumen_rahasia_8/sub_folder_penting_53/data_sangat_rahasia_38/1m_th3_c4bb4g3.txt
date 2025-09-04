@@ -1,0 +1,5 @@
+Do you like vegetables? I like vegetables! You know usually the upper people would spend money for the people, but this time instead of money we only get cabbage :) You're looking for a flag right? Perhaps you should try looking the other result of your search :>
+
+Or perhaps you should try this instead:
+$ find . -name "1m_th3_c4*" | xargs cat
+

@@ -1,0 +1,5 @@
+Sike! you think you can find me that easily?
+
+If you want to find me, you should probably try to go to ./FindTheCat/ folder and do:
+$ find . -name "1m_th3_c4*"
+
